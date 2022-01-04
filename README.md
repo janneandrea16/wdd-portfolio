@@ -1,2 +1,2 @@
 # wdd-portfolio
-This is WDD 330 portafolio of work
+This is WDD 330 portfolio of work
