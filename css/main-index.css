@@ -1,0 +1,23 @@
+/*Main index*/
+:root {
+    --primary-color:black;
+    --secondary-color: antiquewhite;
+    --accent1-color:#9AE19D;
+    --font-family: "Lato", Helvetica, sans-serif;
+}
+
+body {
+    font-size: 20px;
+    font-family: var(--font-family);
+    max-width: 960px;
+    margin: 0 auto; 
+    padding:0.5em;
+
+  }
+
+h1{
+  background-color:var(--accent1-color);
+  padding: 1em;
+  text-align: center;
+  }
+
