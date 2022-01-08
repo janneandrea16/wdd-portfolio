@@ -1,3 +1,4 @@
-var footer = document.getElementById('footer').innerHTML="<p>© 2022 | Andrea López | WDD330 portfolio</p>";
+var footer = document.getElementById("myFooter").innerHTML="<p>© 2022 | Andrea López | WDD330 Portfolio</p>";
+
 
 

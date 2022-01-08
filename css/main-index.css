@@ -2,8 +2,15 @@
 :root {
     --primary-color:black;
     --secondary-color: antiquewhite;
-    --accent1-color:#9AE19D;
+    --accent1-color:#B3B7EE;
+    --accent2-color:#9395D3;
+    --accent3-color:#A2A3BB;
     --font-family: "Lato", Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  border:1px solid var(--primary-color);
 }
 
 body {
@@ -18,6 +25,14 @@ body {
 h1{
   background-color:var(--accent1-color);
   padding: 1em;
+  font-size: 20px;
   text-align: center;
   }
 
+.note-title{
+  background-color:var(--accent3-color);
+  padding: 1em;
+  font-size: 20px;
+  text-align: center;
+
+  }
